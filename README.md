@@ -1,9 +1,3 @@
-# NOTE
-
-This account will not have any new repositories made, I'm moving to publishing repos on **[Codeberg](https://codeberg.org/Yoshiboi18303)** to get away from Microsoft for a bit. I will still be doing pull requests and issues on existing repositories here on GitHub though.
-
----
-
 # Hello!
 I'm *Yoshiboi18303*!
 
