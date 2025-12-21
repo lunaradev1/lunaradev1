@@ -1,5 +1,5 @@
 # Hello!
-I'm *Yoshiboi18303*!
+I'm *LunaraDev*!
 
 ---
 
@@ -25,9 +25,9 @@ I also use Python sometimes for small personal scripts as well as PowerShell/Bas
 
 ## What do I use?
 
-Mainly [VS Code](https://code.visualstudio.com) for development, but once I have money for the JetBrains IDEs, you bet I'm dropping that part of Microsoft.
+Mainly [VS Code](https://code.visualstudio.com) and [Neovim](https://neovim.io) for development, but once I have money for the JetBrains IDEs, you bet I'm dropping that part of Microsoft.
 
-I also use [EndeavourOS](https://endeavouros.com/) after getting fed up with Microsoft, trying to learn Neovim as well.
+I also use [EndeavourOS](https://endeavouros.com/) after getting fed up with Microsoft.
 
 ---
 
@@ -36,8 +36,8 @@ I also use [EndeavourOS](https://endeavouros.com/) after getting fed up with Mic
 
 ---
 
-[![Yoshiboi18303's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoshiboi18303&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Yoshiboi18303's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunaradev1&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoshiboi18303&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunaradev1&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 [![WakaTime](https://wakatime.com/badge/user/66ed4421-de7f-45c1-8b2c-6b2ed39f104a.svg)](https://wakatime.com/@66ed4421-de7f-45c1-8b2c-6b2ed39f104a)
