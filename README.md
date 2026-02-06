@@ -9,7 +9,7 @@ I am a gamer and developer!
 ---
 
 ## What do I develop?
-I am mainly a **web developer**, although I do develop other stuff like Discord bots. I am also wanting to become a mobile app and game developer at some point, so stay tuned!
+I am mainly a **web developer** and **Discord bot developer**. I am also wanting to become a mobile app and game developer at some point, so stay tuned!
 
 ---
 
